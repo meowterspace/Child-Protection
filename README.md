@@ -6,6 +6,7 @@ There are a lot of amazing Hackathons at the moment, but very few of them seem t
 
 Jumping into the swamp of legal terminology and policies can be scary and often leave you concerned as to where to start.
 
+### Appoint a Child Protection Officer
 
 ### Parental forms
 
@@ -19,6 +20,14 @@ There are only 2 forms you'll need to require an U18 to fill in.
 ### Venue
 ### Insurance
 ### Staff checks
+#### DBS checks
+Ideally all your voulenteers and organisers will be DBS checked. This is easy to do :D
+You can DBS check your voulenteers for free as long as they aren't paid/employed, on a work placement or in training with you. Usually you would DBS check your voulenteers using an umbrella organisation such as [uCheck](https://www.ucheck.co.uk/). These may charge a small administration fee.
+A DBS check requires the voulenteers to send you several forms of ID. If possible get an enhanced DBS check.
+If the voulenteer has a DBS check (within 3 years) from elsewhere, as long as you have a copy of this that's fine.
+#### Background checks
+It goes without saying, don't recruit idiots or people you don't trust in a position of responsibility as voulenteers.
+If you don't know them very well talk to them first and ask for (informal) references. Do a quick scan of their social media to get an idea of the sort of person you're getting to represent your hackathon.
 ### Staff training
 ### Data keeping
 ### Overnight security
@@ -26,7 +35,7 @@ There are only 2 forms you'll need to require an U18 to fill in.
 
 Sleeping areas for U18s should be:
 
-- **Completely seperate to adult sleeping areas**. They must be 
+- **Completely seperate to adult sleeping areas**. This must be out of the way and not visable from the outside. If possible it would be great to have this in a seperate room, or on a seperate floor.
 - **Gender seperated**. There should be seperate sleeping areas for Males and Females. You should recognise the existance of non-binary genders and allow them to sleep in an area they feel most comfortable in.
 - **Well advertised**. U18s should be aware of where their desegnated sleeping area is, and adults aware that they shouldn't enter.
 - **Enfoced**. Of course an U18 choosing to not sleep, or sleep at their workstation is fine. U18s should NOT use the adult sleeping areas and vice versa. The seperation of genders must also be enforced. 
