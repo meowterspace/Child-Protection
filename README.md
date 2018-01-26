@@ -6,7 +6,11 @@ There are a lot of amazing Hackathons at the moment, but very few of them seem t
 
 Jumping into the swamp of legal terminology and policies can be scary and often leave you concerned as to where to start.
 
+### Venue
+You should ask your venue before continuing if they are okay with hosting U18s overnight. This may be the dealbreaker. If they choose not to allow to accomodate minors it may be time to either look for another venue or stop reading here.
+
 ### Appoint a Child Protection Officer
+
 
 ### Parental forms
 
@@ -17,22 +21,33 @@ There are only 2 forms you'll need to require an U18 to fill in.
 - A **Medical form** should collect basic emergency medical information or anything that could cause problems throughout the hackathon. A paper version is not neccessary and an online version would suffice if that suits you. Ideally you should be collecting mediacal data from all your attendees anyway :) You can find a template medical form [here].
 
 ### Child protection policies
-### Venue
+
 ### Insurance
-### Staff checks
+You absolutely must make sure your Public Liability Insurance covers U18s. It may be that your venue, society or organisation already has this for you.
+
+### Voulenteer checks
 #### DBS checks
 Ideally all your voulenteers and organisers will be DBS checked. This is easy to do :D
 You can DBS check your voulenteers for free as long as they aren't paid/employed, on a work placement or in training with you. Usually you would DBS check your voulenteers using an umbrella organisation such as [uCheck](https://www.ucheck.co.uk/). These may charge a small administration fee.
 A DBS check requires the voulenteers to send you several forms of ID. If possible get an enhanced DBS check.
 If the voulenteer has a DBS check (within 3 years) from elsewhere, as long as you have a copy of this that's fine.
+U18 voulenteers do not need to be DBS checked.
 #### Background checks
 It goes without saying, don't recruit idiots or people you don't trust in a position of responsibility as voulenteers.
 If you don't know them very well talk to them first and ask for (informal) references. Do a quick scan of their social media to get an idea of the sort of person you're getting to represent your hackathon.
-### Staff training
-### Data keeping
-### Overnight security
-### Seperate sleeping areas
 
+### Voulenteer training
+- All your voulenteers and organisers should read your child protection policy and agree to it. You should keep track of who has read it.
+- It would be a good idea to have someone with level 1 safeguarding training on hand. Whilst you may not want to do this yourself, it would be fine asking someone from a school, local council or child safeguarding organisation to come help out. They're only there to help and advise when an issue arrises.
+
+### Data keeping
+
+
+### Overnight security
+It's a good idea to have overnight security for your event. Your venue may well provide some which is great! This will make parents more comfortable, you more covered if something goes wrong and above all, keep everyone safe :D
+Make sure security are aware of your event layout, and where the U18 sleeping areas are.
+
+### Seperate sleeping areas
 Sleeping areas for U18s should be:
 
 - **Completely seperate to adult sleeping areas**. This must be out of the way and not visable from the outside. If possible it would be great to have this in a seperate room, or on a seperate floor.
@@ -46,15 +61,6 @@ Marking U18s somehow, typically with coloured wrist-bands, is a good idea. It al
 ### Signing in and out
 All U18s should be signed in and out of the building. You should also be checking if their parents have allowed them to leave unattended at the start and end of your event (specified on parental consent forms). 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
