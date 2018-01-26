@@ -11,19 +11,31 @@ Jumping into the swamp of legal terminology and policies can be scary and often 
 
 There are only 2 forms you'll need to require an U18 to fill in.
 
-- A **parental consent** form is essential, you should not let a minor into an overnight hackathon without a correctly filled out one. It must be a hard (paper) document. You can find a template parental consent form [here].
+- A **Parental consent** form is essential, you should not let a minor into an overnight hackathon without a correctly filled out one. It must be a hard (paper) document. You can find a template parental consent form [here].
 
 - A **Medical form** should collect basic emergency medical information or anything that could cause problems throughout the hackathon. A paper version is not neccessary and an online version would suffice if that suits you. Ideally you should be collecting mediacal data from all your attendees anyway :) You can find a template medical form [here].
 
 ### Child protection policies
+### Venue
+### Insurance
 ### Staff checks
 ### Staff training
 ### Data keeping
 ### Overnight security
 ### Seperate sleeping areas
-### Marking U18s
-### Signing in and out
 
+Sleeping areas for U18s should be:
+
+- **Completely seperate to adult sleeping areas**. They must be 
+- **Gender seperated**. There should be seperate sleeping areas for Males and Females. You should recognise the existance of non-binary genders and allow them to sleep in an area they feel most comfortable in.
+- **Well advertised**. U18s should be aware of where their desegnated sleeping area is, and adults aware that they shouldn't enter.
+- **Enfoced**. Of course an U18 choosing to not sleep, or sleep at their workstation is fine. U18s should NOT use the adult sleeping areas and vice versa. The seperation of genders must also be enforced. 
+
+### Marking U18s
+Marking U18s somehow, typically with coloured wrist-bands, is a good idea. It allows you to enforce other U18 policies with more ease, and helps you spot them when you're in a pickle :)
+
+### Signing in and out
+All U18s should be signed in and out of the building. You should also be checking if their parents have allowed them to leave unattended at the start and end of your event (specified on parental consent forms). 
 
 - Bulleted
 - List
