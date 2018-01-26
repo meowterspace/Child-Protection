@@ -1,22 +1,29 @@
----
-title: bob
-permalink: /
----
-
 ## A guide for accomadating minors at a Hackathon
 
 There are a lot of amazing Hackathons at the moment, but very few of them seem to be accomodating to under 18s. Having been the youth organiser at [HackTheMidlands](http://hackthemidlands.co.uk/) for 2 years now it often confuses me as to why this is. After asking other organisers, it seems to be down to worries about responsiblity, extra effort and not being sure what to do. So for those seeking it, I've written a guide to help you get going!
 
-### Markdown
+### Getting started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jumping into the swamp of legal terminology and policies can be scary and often leave you concerned as to where to start.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Parental forms
+
+There are only 2 forms you'll need to require an U18 to fill in.
+
+- A **parental consent** form is essential, you should not let a minor into an overnight hackathon without a correctly filled out one. It must be a hard (paper) document. You can find a template parental consent form [here].
+
+- A **Medical form** should collect basic emergency medical information or anything that could cause problems throughout the hackathon. A paper version is not neccessary and an online version would suffice if that suits you. Ideally you should be collecting mediacal data from all your attendees anyway :) You can find a template medical form [here].
+
+### Child protection policies
+### Staff checks
+### Staff training
+### Data keeping
+### Overnight security
+### Seperate sleeping areas
+### Marking U18s
+### Signing in and out
+
 
 - Bulleted
 - List
