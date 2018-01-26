@@ -1,14 +1,11 @@
 ---
 title: bob
-layout: post
 permalink: /
 ---
 
-## A guide for accomadating minors in a Hackathon
+## A guide for accomadating minors at a Hackathon
 
-You can use the [editor on GitHub](https://github.com/meowterspace/Child-Protection/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are a lot of amazing Hackathons at the moment, but very few of them seem to be accomodating to under 18s. Having been the youth organiser at [HackTheMidlands](http://hackthemidlands.co.uk/) for 2 years now it often confuses me as to why this is. After asking other organisers, it seems to be down to worries about responsiblity, extra effort and not being sure what to do. So for those seeking it, I've written a guide to help you get going!
 
 ### Markdown
 
