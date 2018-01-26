@@ -1,6 +1,7 @@
 ---
 title: bob
 layout: none
+permalink: /
 ---
 
 ## Welcome to GitHub Pages
